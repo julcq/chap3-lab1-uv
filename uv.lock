@@ -1,0 +1,8 @@
+version = 1
+revision = 3
+requires-python = ">=3.13"
+
+[[package]]
+name = "chap3-lab1-uv"
+version = "0.1.0"
+source = { editable = "." }
