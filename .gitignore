@@ -7,3 +7,6 @@ __pycache__/
 init.sql
 *.duckdb
 init.sql
+target/
+dbt_packages/
+logs/
